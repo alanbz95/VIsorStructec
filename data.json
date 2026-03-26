@@ -1,6 +1,154 @@
 {
   "modelUrl": "models/modelo.glb",
-  "headerTitle": "Visor 3D Structec",
-  "headerSubtitle": "Detalles de Inspección",
-  "pins": []
+  "pins": [
+    {
+      "id": "1774398606763",
+      "title": "MARCA POLIGONAL DE AREA",
+      "description": "AREA INSPECCIONADA \nDescripción ",
+      "type": "foto",
+      "color": "#10b981",
+      "attachment": "photos/0c2a8755-e1ee-4ad8-9cf6-f9ffe857c9e6.jpg,photos/0c3fff34-5024-408d-9e1f-6eaf178f8f40.jpg",
+      "position": {
+        "x": -13.907811419503513,
+        "y": 2.053744005436977,
+        "z": -1.5083702765743328
+      },
+      "isArea": true,
+      "points": [
+        {
+          "x": -14.893841946782409,
+          "y": 1.9916491237488714,
+          "z": -2.2497227511507205
+        },
+        {
+          "x": -12.928044478480938,
+          "y": 1.9846353910941446,
+          "z": -2.496198427874557
+        },
+        {
+          "x": -12.680204283350665,
+          "y": 2.114875442999381,
+          "z": -0.7906598100220017
+        },
+        {
+          "x": -15.129154969400044,
+          "y": 2.1238160639055117,
+          "z": -0.4969001172500521
+        }
+      ]
+    },
+    {
+      "id": "1774398678019",
+      "title": "Marca Lineal",
+      "description": "Linea detalle ",
+      "type": "info",
+      "color": "#ef4444",
+      "attachment": "",
+      "position": {
+        "x": -5.480119692127111,
+        "y": 2.1062570478949807,
+        "z": -1.9104663532202393
+      },
+      "isLine": true,
+      "points": [
+        {
+          "x": -5.458607407937471,
+          "y": 2.009902077611642,
+          "z": -3.0845407127643893
+        },
+        {
+          "x": -5.616112025249748,
+          "y": 2.070576014967383,
+          "z": -2.464435054951366
+        },
+        {
+          "x": -5.381105100719555,
+          "y": 2.127573042094241,
+          "z": -1.6942738895375475
+        },
+        {
+          "x": -5.464654234601671,
+          "y": 2.216977056906657,
+          "z": -0.39861575562765417
+        }
+      ]
+    },
+    {
+      "id": "1774398726567",
+      "title": "Link a internet",
+      "description": "Link a interner",
+      "type": "info",
+      "color": "#3b82f6",
+      "attachment": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+      "position": {
+        "x": 1.8411029563633896,
+        "y": 2.1699771196695528,
+        "z": -2.090528682639169
+      }
+    },
+    {
+      "id": "1774398802441",
+      "title": "Viga tranversal",
+      "description": "",
+      "type": "info",
+      "color": "#f59e0b",
+      "attachment": "",
+      "position": {
+        "x": 8.3817533938755,
+        "y": 2.183435337864654,
+        "z": -2.850226144939374
+      },
+      "isArea": true,
+      "points": [
+        {
+          "x": 8.833544262858728,
+          "y": 2.108614837368533,
+          "z": -3.7235494546949712
+        },
+        {
+          "x": 7.930570477023138,
+          "y": 2.170553351326129,
+          "z": -3.7142433751837403
+        },
+        {
+          "x": 7.965249710648648,
+          "y": 2.224433971221387,
+          "z": -2.054333794609472
+        },
+        {
+          "x": 8.797649124971478,
+          "y": 2.230139191542566,
+          "z": -1.9087779552693136
+        }
+      ]
+    },
+    {
+      "id": "1774398854972",
+      "title": "pin en cara trasversal",
+      "description": "",
+      "type": "info",
+      "color": "#ec4899",
+      "attachment": "",
+      "position": {
+        "x": -7.6743381924184355,
+        "y": 3.494399081311676,
+        "z": -2.7835217437837407
+      }
+    },
+    {
+      "id": "1774398885268",
+      "title": "FOTOS",
+      "description": "Fotos",
+      "type": "foto",
+      "color": "#f59e0b",
+      "attachment": "photos/Modern_Logo_for_Structec_with_Gradient_and_Skyline_Elements__1_.png",
+      "position": {
+        "x": -0.6100386413509806,
+        "y": 2.2979523673888806,
+        "z": -1.6121159215261955
+      }
+    }
+  ],
+  "headerTitle": "Viga A",
+  "headerSubtitle": "Ejemplo, Detalles, Fecha"
 }
